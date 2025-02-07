@@ -1,0 +1,51 @@
+/* css starts below */
+body{
+    color: red;
+}
+
+main{
+    color: green;
+}
+
+h1, h2{
+    font-size: 300%;
+}
+
+footer p{
+    color: blue;
+}
+
+nav li {
+    font-weigt: bold;
+}
+
+/* adds a class */
+.service {
+    border: 1px solide blue;
+}
+
+/* adds an id*/
+#feature.web1  {
+    border: 1px dotted red;
+}
+
+/* LVHA */
+a:link {
+    color:red;
+}
+
+a:visited {
+    color: coral;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active{
+    color:white;
+}
+
+
+
+main.product nav ul li.active a#sale span {...} 
